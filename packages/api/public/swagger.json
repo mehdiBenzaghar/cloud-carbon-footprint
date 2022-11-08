@@ -1,0 +1,27 @@
+{
+	"components": {
+		"examples": {},
+		"headers": {},
+		"parameters": {},
+		"requestBodies": {},
+		"responses": {},
+		"schemas": {},
+		"securitySchemes": {}
+	},
+	"info": {
+		"title": "@cloud-carbon-footprint/api",
+		"version": "1.5.0",
+		"description": "The API endpoint as an entrypoint to get cloud energy and carbon emissions. Optionally used by the client dashboard.",
+		"license": {
+			"name": "Apache-2.0"
+		},
+		"contact": {}
+	},
+	"openapi": "3.0.0",
+	"paths": {},
+	"servers": [
+		{
+			"url": "/"
+		}
+	]
+}
